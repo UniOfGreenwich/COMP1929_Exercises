@@ -559,6 +559,7 @@ Go ahead and click the green 'Merge pull request' button. This will merge your c
 ![](./figures/step8-6.png)
 
 When you're done, I recommend deleting your branch (too many branches can become messy), so hit that grey 'Delete branch' button as well.
+//what grey button, the way this is done has the dev branch set as the default. Would this by why you cannot delete the dev branch? possibly an image missing here? how do i make main the default?//
 
 You can double check that your commits were merged by clicking on the 'Commits' link on the first page of your new repo.
 
